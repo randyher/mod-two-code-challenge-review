@@ -1,6 +1,6 @@
 ## Domain is Pet/Owners
 * Owner has many Pets
-* Pet belongs to an owner
+* Pet belongs to an Owner
 
 ### PET:
 * Has a name and type (i.e. cat, dog, bird, etc...)
